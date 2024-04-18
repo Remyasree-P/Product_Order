@@ -1,0 +1,44 @@
+{
+  "manager": [
+    {
+      "id": "7bed",
+      "name": "abcd",
+      "email": "abcd@gmail.com",
+      "password": "abcd",
+      "phoneno": "1234567890"
+    },
+    {
+      "id": "2c1b",
+      "name": "",
+      "email": "",
+      "password": "",
+      "phoneno": ""
+    },
+    {
+      "id": "4d97",
+      "name": "vichu",
+      "email": "vichu@gmail.com",
+      "password": "vichu",
+      "phoneno": "1234567890"
+    },
+    {
+      "id": "ac43",
+      "name": "vichu",
+      "email": "vichu@gmail.com",
+      "password": "1234",
+      "phoneno": "1234567890",
+      "profileImage": "https://t4.ftcdn.net/jpg/01/66/10/03/360_F_166100342_KbTGIRrnrlwGDZSXSMpH3zfn2dxyTKae.jpg"
+    }
+  ],
+  "product": [
+    {
+      "id": "3c86",
+      "Category": "",
+      "Restaurant": "Crab",
+      "dish": "Paneer Masala",
+      "price": "220",
+      "quantity": "1",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8dixdVE25PH7AVusUvK79Maj-2eMVxxkUVg&usqp=CAU"
+    }
+  ]
+}

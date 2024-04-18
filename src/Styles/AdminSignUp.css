@@ -1,0 +1,31 @@
+.adminsignup{
+    /* box-shadow: 0px 0px  10px grey; */
+    padding: 20px;
+    position: absolute;
+    top: 20%;
+    left: 36%;
+    height: 250px;
+    width: 400px;
+    text-align: center;
+    background-color:cadetblue;
+    border-radius: 8px;
+}
+.admin_sign{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.admin_sign input{
+    color: black;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 3px 15px;
+    margin: 5px;
+    border-radius: 7px;
+}
+.adminsignup button{
+    margin: 15px;
+    padding: 2px 20px;
+    border-radius: 10px;
+    background-color: wheat;
+}

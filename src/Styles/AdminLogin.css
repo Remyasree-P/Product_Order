@@ -1,0 +1,22 @@
+.adminlogin{
+    box-shadow: 0px 0px  10px grey;
+    position: absolute;
+    background-color: burlywood;
+    /* text-align: center; */
+    top: 10%;
+    left: 36%;
+    height: 250px;
+    width: 400px;
+}
+.adminlogin input{
+    padding: 5px 30px;
+    margin: 10px;
+}
+.adminlogin button{
+    padding: 5px 30px;
+    margin: 10px;
+    background-color:violet;
+}
+.adminlogin a{
+    text-decoration: none;
+}
